@@ -28,11 +28,17 @@ import PlaygroundSupport
 let encodedBitmap = getEncodedBitmapString()
 
 // Loop
+// for i in stride(from:0, through: ...
 for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that the syntax for the loop is new
+// for character in encodedBitmap
+//for somethingElse
+//
+//I also notice that the loop runs a different number of times each time I run the playground.
+// That I'm able to inspect or work with each individual character in the string
 /*:
  Now, **remember to commit and push your work**.
  */
