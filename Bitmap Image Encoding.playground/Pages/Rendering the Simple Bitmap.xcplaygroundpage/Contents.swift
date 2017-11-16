@@ -51,8 +51,8 @@ for character in encodedBitmap {
  
  Write your ideas in the code comment below.
  */
-// I notice that...
-// I know this because...
+// I notice that the position and amount of black squares changes everytime I run the playground because of the numbers changing in the string
+// I know this because the amount of ones and zeros and the position of them change everytime I run the playground in the string 
 /*:
  Now, **remember to commit and push your work**.
  */
